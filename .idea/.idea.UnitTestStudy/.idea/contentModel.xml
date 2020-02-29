@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Github\UnitTestStudy" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="WorldTo.cs" t="Include" />
+          </e>
+        </e>
         <e p="Tests" t="Include">
           <e p="Editor" t="Include">
             <e p="EditorTool.cs" t="Include" />
