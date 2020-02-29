@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Github\UnitTestStudy" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="Tests" t="Include">
+          <e p="Editor" t="Include">
+            <e p="EditorTool.cs" t="Include" />
+            <e p="Tests.Editor.asmdef" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="InstantiateTest.cs" t="Include" />
+            <e p="SkillTest.cs" t="Include" />
+            <e p="Tests.asmdef" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tests.csproj" t="IncludeRecursive" />
+      <e p="Tests.Editor.csproj" t="IncludeRecursive" />
+      <e p="UnitTestStudy.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\J-DT\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\J-DT\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_UnitTestStudy.1784595626.00" t="ExcludeRecursive" />
+  </component>
+</project>
